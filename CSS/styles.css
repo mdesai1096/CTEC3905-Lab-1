@@ -1,0 +1,18 @@
+body {
+  background: #f989;
+}
+
+h1 {
+  color: #f56;
+  text-align: center;
+}
+
+button {
+  background-color: #4CAF60;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
